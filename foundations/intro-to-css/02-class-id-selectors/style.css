@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.impar{
+    background-color: rgb(255, 184, 184);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.unico{
+    font-size: 24px;
+}
+
+#primerDiv{
+    color:blue;
+    font-size: 36px;
+}
+
+
+
+#segundoDiv{
+    background-color: rgb(136, 255, 152);
+    font-size: 24px;
+    width: bold;
+}
